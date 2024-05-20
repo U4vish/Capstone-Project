@@ -1,4 +1,4 @@
-# Capstone-Project
+# Capstone-Project App
 Final Year Project
 
 # FitMate
