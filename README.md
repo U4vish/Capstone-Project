@@ -27,4 +27,6 @@ Custom Workout Plan Creation
    - Users can create their own custom workout plans by selecting exercises from the library and organizing them into routines.
 Set, Time, and Repetition Management
    - Users can add sets, time, or repetitions for each exercise in their workout plan, allowing for precise and tailored workouts.
+   -Push notifications for reminders and motivational messages.
+
 
