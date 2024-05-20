@@ -6,5 +6,8 @@ FitMate is an all-in-one fitness tracker app designed to help users achieve thei
 
 # Group S 2 G 8
 Urvish Patel (1192982)
+Syed Shahbaz (1195561)
+
+
 
 
