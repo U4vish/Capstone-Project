@@ -18,6 +18,10 @@ Users can sign up and log in using their email or social media accounts, providi
 Users can create a personalized profile by entering details such as age, gender, target weight, current weight, height, and other relevant information.
 Automatically track daily activities, including steps taken, distance traveled, and calories burned, using integration with wearable devices and built-in smartphone sensors.
 The app includes default workout plans for each muscle group, providing users with structured exercise routines.
+Refresh Workout Plans
+   - Users can refresh the default workout plans, and the app will generate new plans to keep their routines varied and engaging.
+Exercise Library
+   - Users can view a comprehensive library of exercises, including detailed instructions and illustrations for each exercise.
 
 
 
